@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class create_a_table {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("good morning sir..... i also make this prepare project");
 
         // Prompt user for input
         System.out.print("Enter a number to create its multiplication table: ");
